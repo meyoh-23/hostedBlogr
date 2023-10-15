@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/hostedBlogr/static/js/main.98b67275.js",
+    "main.js": "/hostedBlogr/static/js/main.5208822f.js",
     "static/media/illustration-phones.svg": "/hostedBlogr/static/media/illustration-phones.fd23559f1d2f81f9e3f3340eeaf2467c.svg",
     "static/media/illustration-laptop-mobile.svg": "/hostedBlogr/static/media/illustration-laptop-mobile.fe1ec0f05da01bb067fa78fca0b79d76.svg",
     "static/media/illustration-laptop-desktop.svg": "/hostedBlogr/static/media/illustration-laptop-desktop.799209c2628b1f244e1512cc686f0162.svg",
@@ -9,9 +9,9 @@
     "index.html": "/hostedBlogr/index.html",
     "static/media/bg-pattern-intro-mobile.svg": "/hostedBlogr/static/media/bg-pattern-intro-mobile.3d70cc0d02948cb778517aece1eac215.svg",
     "static/media/bg-pattern-intro-desktop.svg": "/hostedBlogr/static/media/bg-pattern-intro-desktop.bf6b3e1b727eabeffdc535d0d6a5f268.svg",
-    "main.98b67275.js.map": "/hostedBlogr/static/js/main.98b67275.js.map"
+    "main.5208822f.js.map": "/hostedBlogr/static/js/main.5208822f.js.map"
   },
   "entrypoints": [
-    "static/js/main.98b67275.js"
+    "static/js/main.5208822f.js"
   ]
 }

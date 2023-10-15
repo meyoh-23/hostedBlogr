@@ -188,7 +188,7 @@ const About = () => {
                   videos, and Markdown. Extensibility with plugins and themes provide easy ways to add functionality or 
                   change the looks of a blog.
                 </Typography>
-          <Typography 
+              <Typography 
               variant='h5'
               sx={{
                   color: "seondary.main",

@@ -382,6 +382,7 @@ const Navbar = () => {
                                                 fontFamily:"'Overpass', sans-serif",
                                                 fontWeight: "300",
                                             }}
+                                            href="#linkedIn"
                                             >
                                                 Contact
                                             </Link>
@@ -396,6 +397,7 @@ const Navbar = () => {
                                                 fontFamily:"'Overpass', sans-serif",
                                                 fontWeight: "300",
                                             }}
+                                            href="#linkedIn"
                                             >
                                                 newsletter
                                             </Link>
@@ -410,6 +412,7 @@ const Navbar = () => {
                                                 fontFamily:"'Overpass', sans-serif",
                                                 fontWeight: "300",
                                             }}
+                                            href="#linkedIn"
                                             >
                                                 linkedIn
                                             </Link>

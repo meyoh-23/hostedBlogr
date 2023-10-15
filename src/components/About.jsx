@@ -142,18 +142,15 @@ const About = () => {
         mx: "1.5rem",
       }}
       >
-        <Box
-        sx={{
-          backgroundImage: `url(${bgCircleMobile})`,
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-          backgroundRepeat: "no-repeat",
-          height: "340px",
-
-        }}
-        >
-
-        </Box>
+        <Box>
+          <img src={bgCircleMobile} alt="bgCircleMobile" 
+        style={{
+          maxWidth: '100%',
+          height: 'auto',
+          display: 'block'
+          }}
+        />
+      </Box>
         <Box
         sx={{
           display: "flex",
